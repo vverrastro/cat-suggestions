@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Cat Suggestions",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "Generates contextually relevant suggestion phrases to continue the conversation with the chatbot. It dynamically adapts to the flow of dialogue, ensuring smooth and engaging interactions.",
+    "author_name": "Vito Verrastro",
+    "author_url": "https://vitoverrastro.me/",
+    "plugin_url": "https://github.com/vverrastro/cat-suggestions",
+    "tags": "suggestions, llm, questions, conversation",
+    "thumb": "https://raw.githubusercontent.com/vverrastro/cat-suggestions/main/plugin_cat_suggestions.png"
 }

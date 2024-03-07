@@ -1,26 +1,19 @@
-# My plugin
+# Cat Suggestions
 
-[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=383938&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
-[![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=Awesome+plugin&color=000000&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
 [![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://)
 
-Write here all the useful information about your plugin.
+Cat Suggestions Plugin enhances the conversational experience by providing users with contextually appropriate suggestions for continuing the conversation with the assistant.
 
-This repository is the template to automate the release of official Cheshire Cat AI plugins. 
+## Features
 
-## Usage
+**Contextual Suggestions**: The plugin analyzes the conversation's context in real-time and generates suggestions that are relevant to the topic being discussed.
 
-1. Create a new repository clicking on the `Use this template` button.
-2. Clone your new repo directly in the Cat's `plugins` folder.
-3. Run the `setup.py` script:
-```bash
-python setup.py
-```
-The script will prompt you to write the name of your plugin and make an initial setup setting the name in the files.
+**Dynamic Interaction**: It adapts to the changing flow of the conversation, ensuring that the suggestions remain pertinent as the discussion evolves.
 
-4. Start developing!
+## Important
 
-> **Important**
-> A new release of your plugin is triggered every time you set a new `version` in the `plugin.json` file.
-> Please, remember to set it correctly every time you want to release an update.
+> Warning When this plugin is enabled, the Cat makes an additional call to the language model API.
 
+## Support
+
+If you encounter any issues or have questions about using the plugin, please file an issue on our GitHub repository. Our team is dedicated to providing support and ensuring a great user experience.
